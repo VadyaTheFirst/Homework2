@@ -56,9 +56,8 @@ public class Main {
 
         //Задача 7
         var difference1 = secondWeight - firstWeight;
-        System.out.println("Разница в весе " + difference1);
         var difference2 = secondWeight % firstWeight;
-        System.out.println("Разница в весе " + difference2);
+
 
         //Задача 8-1
         var hoursTotal= 640;
