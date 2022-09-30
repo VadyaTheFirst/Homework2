@@ -57,6 +57,7 @@ public class Main {
         //Задача 7
         var difference1 = secondWeight - firstWeight;
         var difference2 = secondWeight % firstWeight;
+        //убрал вывод
 
 
         //Задача 8-1
